@@ -1,0 +1,6 @@
+{
+  "name": "Olympiad Physics Lab – Mister Jo",
+  "description": "Aplikasi pembelajaran dan latihan Olimpiade Sains Fisika Tingkat Kota berbasis Soal Nomor 7 OSK Fisika 2026 dengan 15 soal numerik, Pusat Teori 5 Level, Lab Animasi Fisika, Pembahasan Terstruktur, dan Narator Suara oleh Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
